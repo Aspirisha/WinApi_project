@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1386617490 source:d:\nick\polytech\5 semestr\winapi\nodeblocks\main.cpp
+	<windows.h>
+	<fstream>
+	<vector>
+	<string>
+	<winuser.h>
+	"resources.h"
+
+1386009423 d:\nick\polytech\5 semestr\winapi\nodeblocks\resources.h
+
+1384805788 source:d:\nick\polytech\5 semestr\winapi\nodeblocks\resources.rc
+	"resources.h"
+	<winuser.h>
+
+1384812355 source:d:\nick\polytech\5 semestr\winapi\nodeblocks\sasha.cpp
+	<windows.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<vector>
+	<fstream>
+	<CommCtrl.h>
+	<Commdlg.h>
+	<commctrl.h>
+
